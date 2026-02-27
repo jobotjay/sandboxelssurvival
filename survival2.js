@@ -6,7 +6,6 @@ if (!settings.survival) {
         "seeds": 5,
         "ice": 25,
         "cloner": 1,
-        "midas_touch": 1,
     }
 }
 settings.survival.cloner = 1;
